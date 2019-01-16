@@ -91,7 +91,6 @@ contract SupplyChain {
         _;
     }
 
-
     constructor() public {
         ///* Here, set the owner as the person who instantiated the contract
         owner = msg.sender;
